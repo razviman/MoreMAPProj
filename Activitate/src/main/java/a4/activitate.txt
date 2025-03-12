@@ -1,0 +1,9 @@
+28/01/2023;3256;7;[plimbare dimineata,12]
+28/01/2023;3256;7;[plimbare dupa masa,23]
+01/02/2023;4;6;[plimbare,6]
+04/02/2023;3660;8;[plimbare seara,38]
+10/02/2023;8740;9;[inot,30]
+02/02/2222;2;3;[plimbare,3]
+02/02/2222;2;3;[plimbare dimineata,4]
+22/01/2025;103;5;inot,5,plimbare,7
+22/02/2026;100;5;inot,6
